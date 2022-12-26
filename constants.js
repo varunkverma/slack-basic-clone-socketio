@@ -1,0 +1,8 @@
+// Events
+const NAMESPACES_LIST = "NS_LIST";
+const NAMESPACE_LOAD_ROOMS = "NS_LD_RMS";
+
+module.exports = {
+  NAMESPACES_LIST,
+  NAMESPACE_LOAD_ROOMS,
+};
